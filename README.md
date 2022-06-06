@@ -1,4 +1,5 @@
-# untitled
+# Readisten Pre Series Donor App
+Readisten
 
 A new Flutter project.
 
