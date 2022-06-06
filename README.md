@@ -1,7 +1,12 @@
 # Readisten Pre Series Donor App
-Readisten
+Readisten's Pre Series Donor App is an app that is supposed to function as a
+donation and investment into our start up business.
 
-A new Flutter project.
+The app is based off the I am Rich App which was built under instructions
+from Dr. Angela Yu, from her London App Brewery Flutter App development
+course on Udemy.
+
+Its a new Flutter project.
 
 ## Getting Started
 
